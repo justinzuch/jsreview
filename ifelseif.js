@@ -14,8 +14,6 @@ function testSize(num) {
 }
     
 
-
-
-// Above
+// Realized I had been missing the opening "{" in the first if condition... Got it now!
 return size;
 }
