@@ -1,0 +1,21 @@
+function testSize(num) {
+
+// Below
+     if (num < 5) {
+    size = "Tiny";
+} else if (num < 10)  {
+    size = "Small";
+} else if (num < 15) {
+    size = "Medium";
+} else if (num < 20) {
+    size = "Large";
+} else {
+    size = "Huge";
+}
+    
+
+
+
+// Above
+return size;
+}
