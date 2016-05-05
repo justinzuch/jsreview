@@ -1,4 +1,7 @@
-simple function:
-
-//5.5.16
-//start here
+//simple function
+var name = "A Name";
+function nameIs (){
+  return name "";
+  
+}
+alert(nameIs);
