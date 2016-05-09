@@ -3,7 +3,7 @@
 // The loop will run up until 100.
 // It will 
 
-for (i = 0; i <= 100; i+=5) {
+for (i = 0; i <= 100; i+= 5) {
   console.log(i);
 // Just a consolelog return right now to test in console.
 }
@@ -12,7 +12,7 @@ for (i = 0; i <= 100; i+=5) {
 
 // Decreasing from 100 to 0 by 5 will look like this...
 
-for (i = 100; i >=0; i-=5) {
+for (i = 100; i >=0; i-= 5) {
   console.log(i);
   }
   
